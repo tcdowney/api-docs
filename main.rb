@@ -19,7 +19,7 @@ def template
   <link href="/application.css" rel="stylesheet">
   <script src='https://code.jquery.com/jquery-2.1.3.js'></script>
   <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js'></script>
-  <script src="http://benahm.github.io/jquery.throwable/javascripts/jquery.throwable.js" type="text/javascript"></script>
+  <script src="https://benahm.github.io/jquery.throwable/javascripts/jquery.throwable.js" type="text/javascript"></script>
 </head>
 <body>
   <%= header %>
